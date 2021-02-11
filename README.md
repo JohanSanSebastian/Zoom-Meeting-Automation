@@ -1,4 +1,4 @@
-# Zoom-Meeting-Automated-Joiner
+# Zoom Meeting Automated Joiner
 
 ## Overview
 This code uses pyautogui and subprocess modules to automate joining zoom meeting. I have included two versions where one just joins a meeting and version-2 has the option to join multiple meeting based on choice
