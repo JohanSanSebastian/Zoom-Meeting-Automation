@@ -8,7 +8,7 @@ The code firstly uses the subprocess module to open Zoom Application from your d
 
 #### **Windows**
 ```python
-    subprocess.call("C:\\Users\\your_name_in_computer\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe") \\ Where Zoom is normally located
+    subprocess.call("C:\\Users\\your_name_in_computer\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe") # Where Zoom is normally located
 ```
 
 Then from the assets folder, pyautogui looks for the various buttons & input boxes (like join meeting, enter passords etc.) and clicks or enters data as required.
