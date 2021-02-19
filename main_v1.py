@@ -1,5 +1,6 @@
 import pyautogui
 import subprocess
+import time
 
 
 def joinMeeting(meeting_id, meeting_pass):
